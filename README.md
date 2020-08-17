@@ -4,7 +4,7 @@
 
 ### Dependancy
 
-#npm i react-icons 
-#npm i social-media-icons-react
-#Bootstrap 4 
-#npm i react-slick
+###npm i react-icons 
+###npm i social-media-icons-react
+###Bootstrap 4 
+###npm i react-slick
